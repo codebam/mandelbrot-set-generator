@@ -11,8 +11,8 @@ import sys
 time1 = time.time()
 pygame.init()
 
-window_x = 800
-window_y = 600
+window_x = 1600
+window_y = 1200
 black = (0, 0, 0)
 white = (255, 255, 255)
 bailout = 2.0
