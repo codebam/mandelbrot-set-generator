@@ -1,5 +1,7 @@
+![Mandelbrot plot](mandelbrot.png)
+
 # Mandelbrot Generator
-[https://github.com/codebam/mandelbrot](https://github.com/codebam/mandelbrot)
+<https://github.com/codebam/mandelbrot>
 
 Written in Python, Licensed under GPLv3
 
